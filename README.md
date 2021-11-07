@@ -1,14 +1,16 @@
 
 ## Hi there. I'm Yavuzhan...:wave:
+
 - :telescope: I’m currently working on Data Analyses
 - :seedling: I’m currently learning Data Analyses tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 ## :man::woman: Social
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yavuzhan-mekeci/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:h.y.mekeci@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilhan" alt="halilhan" /> </p>
 
-## :computer: Libraries, Languages and Tools:![image](https://user-images.githubusercontent.com/45127407/140661578-ef525cde-dd82-4b8a-9802-7d929342c628.png)
+## :computer: Libraries, Languages and Tools:
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="70" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="70" height="40"/> </a>
