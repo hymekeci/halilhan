@@ -8,7 +8,8 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:h.y.mekeci@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halilhan" alt="halilhan" /> </p>
 
-## :computer: Libraries, Languages and Tools:
+## :computer: Libraries, Languages and Tools:![image](https://user-images.githubusercontent.com/45127407/140661578-ef525cde-dd82-4b8a-9802-7d929342c628.png)
+
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="70" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="70" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://bids.berkeley.edu/sites/default/files/styles/250x140/public/projects/scipy_logo_450x254.png?itok=iYqgsiQs" width="70" height="40"/> </a>
@@ -23,6 +24,6 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=halilhan&theme=white-black" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=halilhan&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilhan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=halilhan&theme=white-black" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilhan&theme=white-black&layout=compact" alt="languages" width="50%" > </p>
 
