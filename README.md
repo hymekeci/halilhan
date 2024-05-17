@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=halilhan" alt="Profile Views">
 </p>
 
-<h2 align="center">💻 Libraries, Languages and Tools</h2>
+<h2 align="center">💻 Tools, Languages and Libraries</h2>
 
 <h3 align="center">System and Tools</h3>
 <p align="center">
