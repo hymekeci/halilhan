@@ -14,15 +14,15 @@
 
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="70" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="70" height="40"/> </a>
-<a href="https://www.scipy.org/" target="_blank"> <img src="https://bids.berkeley.edu/sites/default/files/styles/250x140/public/projects/scipy_logo_450x254.png?itok=iYqgsiQs" alt="SciPy" width="70" height="40"/> </a>
+<a href="https://www.scipy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.png" alt="SciPy" width="70" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://static.wixstatic.com/media/e16c6a_3ad31c0baa1d45e88d15b1f9ed24b576~mv2.png/v1/fit/w_400%2Ch_232%2Cal_c/file.png" alt="Tableau" width="70" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="70" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="70" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="70" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL"  width="70" height="40"/> </a>
 <a href="https://plotly.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="Plotly" width="70" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" alt="Jira" width="60" height="40"/> </a>
-<a href="https://slack.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" alt="Slack" width="65" height="30"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://wac-cdn.atlassian.com/dam/jcr:213f8554-ec6c-409b-8cfb-42c00101c397/Jira%20Software%20blue.svg" alt="Jira" width="60" height="40"/> </a>
+<a href="https://slack.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" alt="Slack" width="65" height="30"/> </a>
 
 ## 🛠️ Projects and Contributions
 
